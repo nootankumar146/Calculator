@@ -1,1 +1,2 @@
 # Calculator
+Introducing our basic Calculator app, built with the power trio of HTML, CSS, and JavaScript. The HTML structure lays out the buttons and display, while CSS styles make it visually appealing. JavaScript handles the logic, making the numbers dance and calculations happen in real-time. It's a user-friendly tool – just click the buttons to add, subtract, multiply, or divide. Feel the simplicity of the code, explore the clean design, and enjoy the convenience of our virtual calculator, all thanks to the magic of HTML, CSS, and JavaScript!
